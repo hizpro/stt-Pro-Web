@@ -1,0 +1,6 @@
+{
+  "name": "STT Providensia - Official Website",
+  "description": "Situs Resmi Sekolah Tinggi Teologi Providensia. Terakreditasi BAIK BAN-PT (NPSN 233158). Memberitakan, Membangun, Mengutus melalui Paradigma Teologi Integratif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
